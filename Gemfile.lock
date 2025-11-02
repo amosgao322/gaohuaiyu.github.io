@@ -73,9 +73,9 @@ GEM
     webrick (1.9.1)
 
 PLATFORMS
+  ruby
+  ruby
   x64-mingw-ucrt
-  ruby
-  ruby
 
 DEPENDENCIES
   jekyll (~> 4.0)
@@ -85,4 +85,4 @@ DEPENDENCIES
   webrick (~> 1.7)
 
 BUNDLED WITH
-   2.4.19
+   2.5.22
